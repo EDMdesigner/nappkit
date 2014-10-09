@@ -20,6 +20,7 @@
 		"connect-redis": "1.4.6",
 		"nconf": "0.6.9",
 		"p3p": "0.0.2",
+		"sendgrid": "1.0.5",
 
 		"edm-errorlogger": ""
 	}
