@@ -1,7 +1,7 @@
 {
 	"name": "nappkit",
 	"description": "An application toolkit for node.js built on express.js",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"author": "Gyula Németh",
 	"license": "MIT",
 	"repository": {
